@@ -1,6 +1,6 @@
 # Santander Value Prediction Challenge
 ![image](http://prod-upp-image-read.ft.com/38adfc9e-ba21-11e7-8c12-5661783e5589)
-Imgae from [here](https://www.ft.com/content/5d20900a-ba08-11e7-8c12-5661783e5589)
+Image from [here](https://www.ft.com/content/5d20900a-ba08-11e7-8c12-5661783e5589)
 
 According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception.
 
