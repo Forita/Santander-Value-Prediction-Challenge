@@ -1,4 +1,5 @@
 # Santander Value Prediction Challenge
+![image](https://kaggle2.blob.core.windows.net/competitions/kaggle/9717/logos/header.png?t=2018-05-15-23-00-08)
 
 According to Epsilon research, 80% of customers are more likely to do business with you if you provide personalized service. Banking is no exception.
 
