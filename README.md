@@ -8,4 +8,4 @@ The digitalization of everyday lives means that customers expect services to be 
 
 In this competition, Santander Group is asking Kagglers to help them identify the value of transactions for each potential customer. This is a first step that Santander needs to nail in order to personalize their services at scale.
 
-Competition [details](https://www.kaggle.com/c/santander-value-prediction-challenge)
+(Competition [details](https://www.kaggle.com/c/santander-value-prediction-challenge))
